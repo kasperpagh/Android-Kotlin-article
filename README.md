@@ -34,6 +34,7 @@ fun networkChecker(): Boolean
 }
 ```
 # Manifest
+Disse linjer er vigtige, da din smartphone ikke kan connecte til nettet uden!
 ```
 <uses-permission android:name="android.permission.INTERNET"/>
 <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE"/>
